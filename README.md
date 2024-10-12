@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enodevs
 - 👀 I’m interested in serious programmers and building helpful projects.
-- 🌱 I’m currently learning Web development 
+- 🌱 I’m currently learning Artificial Intelligence 
 - 💞️ I’m looking to collaborate on programming projects
 - I'm still learning but i have great ideas on programming
 - I'm looking for people that can expand my knowledge about programming.
