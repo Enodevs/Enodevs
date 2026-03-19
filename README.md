@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Loopa (A feedback collection tool)<br>👯 I’m looking to collaborate on AI projects and SaaS<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Go<br>💬 Ask me about React<br>⚡ Fun fact, I am still in high school
+🔭 I’m currently working on Braindump (A note-takung app) and Zaptab (A usage-based invoicing tool)<br>👯 I’m looking to collaborate on AI projects and SaaS<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Go<br>💬 Ask me about React<br>⚡ Fun fact, I am still in high school
 
 
 ## 🌐 Socials:
