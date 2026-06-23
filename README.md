@@ -12,7 +12,7 @@
 - 🌱 I'm always **learning and growing** in technology
 - 👯 I'm looking to **collaborate** on innovative ideas
 - 💬 Ask me about **Svelte, TypeScript, Python**
-- 📫 How to reach me: **[@Enodevs](https://github.com/Enodevs)**
+- 📫 How to reach me: **[@Enodevs](https://github.com/Enodevs)**,   
 **[My portfolio](https://abdullahdevs.vercel.app)**
 - ⚡ Fun fact: **I have 45 public repositories!**
 
