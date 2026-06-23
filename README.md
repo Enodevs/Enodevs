@@ -13,7 +13,8 @@
 - 👯 I'm looking to **collaborate** on innovative ideas
 - 💬 Ask me about **Svelte, TypeScript, Python**
 - 📫 How to reach me: **[@Enodevs](https://github.com/Enodevs)**
-- ⚡ Fun fact: **I have 45 public repositories with 0 total stars!**
+**[My portfolio](https://abdullahdevs.vercel.app)**
+- ⚡ Fun fact: **I have 45 public repositories!**
 
 ## 🛠️ Tech Stack & Tools
 
