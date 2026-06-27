@@ -1,8 +1,8 @@
 # Hi there, I'm abdullahdevs_! 👋
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://avatars.githubusercontent.com/u/164727546?v=4" alt="Enodevs" width="200" height="200" style="border-radius: 50%; border: 4px solid #000000;" />
-</div>
+</div> -->
 
 ## 🚀 About Me
 
@@ -11,7 +11,7 @@
 - 🔭 I'm currently working on **exciting projects**
 - 🌱 I'm always **learning and growing** in technology
 - 👯 I'm looking to **collaborate** on innovative ideas
-- 💬 Ask me about **Svelte, TypeScript, Python**
+- 💬 Ask me about **React, TypeScript, Python**
 - 📫 How to reach me: **[@Enodevs](https://github.com/Enodevs)**,   
 **[My portfolio](https://abdullahdevs.vercel.app)**
 - ⚡ Fun fact: **I have 45 public repositories!**
