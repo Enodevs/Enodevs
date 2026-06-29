@@ -8,7 +8,7 @@
 
 > Passionate Software Engineer
 
-- 🔭 I'm currently working on **exciting projects**
+- 🔭 I'm currently working on **a mail API client for developers**
 - 🌱 I'm always **learning and growing** in technology
 - 👯 I'm looking to **collaborate** on innovative ideas
 - 💬 Ask me about **React, TypeScript, Python**
