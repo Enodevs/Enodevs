@@ -54,35 +54,10 @@
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Enodevs&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=ffffff&icon_color=00F7FF&title_color=ffffff" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enodevs&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff" height="180"/>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Enodevs&theme=transparent&hide_border=true&background=00000000&stroke=333333&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F7FF&sideLabels=aaaaaa&dates=666666" height="180"/>
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enodevs&bg_color=00000000&color=ffffff&line=00F7FF&point=ffffff&area=true&hide_border=true" width="95%" />
-
-</div>
+<!-- <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enodevs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enodevs&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff"/> </div> -->
+<div align="center" style="mragin-top: 10px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enodevs&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" /> </div> 
+<!-- <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enodevs&theme=high-contrast&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff" alt="GitHub Activity Graph" /> </div> -->
 
 ---
 
