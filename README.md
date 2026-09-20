@@ -95,7 +95,7 @@
 
 ### 🎯 [svelte-invoice](https://github.com/Enodevs/svelte-invoice)
 
-> A simple invoice generator built with Svelte.
+> A simple invoice generator built with Svelte. Try it out!!!
 
 ![Stars](https://img.shields.io/github/stars/Enodevs/svelte-invoice?style=social)
 ![Forks](https://img.shields.io/github/forks/Enodevs/svelte-invoice?style=social)
