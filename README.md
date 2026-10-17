@@ -9,7 +9,7 @@
 <a href="https://github.com/Enodevs">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://abdullahdevs.vercel.app">
+<a href="https://abdullahdev.cv">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
@@ -27,7 +27,7 @@
 * 💬 Ask me about **TypeScript, JavaScript, Svelte, React, Python**
 * 👯 I'm always interested in **building and collaborating on interesting ideas**
 * 📫 GitHub: **[@Enodevs](https://github.com/Enodevs)**
-* 🌐 Portfolio: **[abdullahdevs.vercel.app](https://abdullahdevs.vercel.app)**
+* 🌐 Portfolio: **[abdullahdev.cv](https://abdullahdev.cv)**
 * ⚡ Fun fact: **I've built 45+ public repositories**
 
 ---
